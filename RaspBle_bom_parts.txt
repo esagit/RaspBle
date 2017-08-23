@@ -1,0 +1,20 @@
+Partlist exported from C:/Users/Esa/Documents/eagle/RaspBle/RaspBle.sch at 23.8.2017 22.49
+
+Part Value             Device            Package          Description                         MPN               OC_FARNELL OC_NEWARK PACKAGE SUPPLIER 
+C1   1UF               C-EUC1206         C1206            CAPACITOR, European symbol                                                                  
+C2   1UF               C-EUC1206         C1206            CAPACITOR, European symbol                                                                  
+C3   1UF               C-EUC1206         C1206            CAPACITOR, European symbol                                                                  
+JP1                    PINHD-2X6         2X06             PIN HEADER                                                                                  
+JP2                    PINHD-1X2         1X02             PIN HEADER                                                                                  
+LED1                   LEDSML1206        SML1206          LED                                                                                         
+LED2                   LEDSML1206        SML1206          LED                                                                                         
+LED3                   LEDSML1206        SML1206          LED                                                                                         
+R1                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+R2                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+R3                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+R4                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+R5                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+R6                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+R7                     R-EU_R1206        R1206            RESISTOR, European symbol                                                                   
+U1   RN4020            RN4020            RN4020SMD                                                                                                    
+U2   MCP1703T-3302E/CB MCP1703T-3302E/CB SOT95P300X145-3N Low Quiescent Current LDO Regulator MCP1703T-3302E/CB 1439518    40M0637   SOT-3   Microchip
