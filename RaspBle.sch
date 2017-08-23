@@ -7939,7 +7939,7 @@ Source: www.kingbright.com</description>
 <text x="213.36" y="121.92" size="1.778" layer="97">Green led. Connected to a remote device.</text>
 <text x="213.36" y="111.76" size="1.778" layer="97">Red led. UART console data.</text>
 <text x="213.36" y="101.6" size="1.778" layer="97">Blue led. Module is awake and active.</text>
-<text x="254" y="7.62" size="2.54" layer="97" align="center-left">1.0</text>
+<text x="254" y="7.62" size="2.54" layer="97" align="center-left">A</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
